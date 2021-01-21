@@ -14,7 +14,7 @@
     "express": "^4.17.1",
     "http": "0.0.1-security",
     "path": "^0.12.7",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "vue": "^2.6.11",
     "vue-material": "^1.0.0-beta-14",
     "vue-resource": "^1.5.1",
